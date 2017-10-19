@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="chatApplication/src/main/java"/>
+	<classpathentry kind="lib" path="chatApplication/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/commons-math3-3.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/commons-math3-3.6.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/javaee.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/jgoodies-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/jgoodies-forms-1.4.2.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/jgroups-3.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/jms-2.0.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/metrics.jar"/>
+	<classpathentry kind="lib" path="chatApplication/lib/netty-all-4.0.0.final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="chatApplication/bin"/>
+</classpath>
